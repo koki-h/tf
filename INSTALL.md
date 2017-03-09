@@ -21,7 +21,6 @@ https://www.tensorflow.org/install/install_linux
 
 ```
 $ sudo apt-get install python-pip python-dev python-virtualenv 
-$ pip install --upgrade pip
 $ mkdir ~/tensorflow #環境を入れるディレクトリ
 $ virtualenv --system-site-packages ~/tensorflow
 $ source ~/tensorflow/bin/activate 
